@@ -1,0 +1,11 @@
+{
+	"name": "raspi-sensortag",
+	"version": "0.1",
+	"description": "",
+	"author": "tomotomo",
+	"license": "Apach 2.0",
+	"language": "",
+	"scripts": {
+		"start": "date"
+	}
+}
